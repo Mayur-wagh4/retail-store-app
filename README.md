@@ -1,15 +1,4 @@
 # 🚀 Retail Store Sample App - GitOps with Amazon EKS Auto Mode
-
-![Banner](./docs/images/banner.png)
-
-<div align="center">
-
-![GitHub License](https://img.shields.io/github/license/retail-store-sample-app?color=green)
-
-<h2>AWS Containers Retail Sample Application</h2>
-
-</div>
-
 ---
 
 ## 📌 Overview
